@@ -4,7 +4,7 @@
 #
 Name     : azure-mgmt-apimanagement
 Version  : 0.2.0
-Release  : 6
+Release  : 7
 URL      : https://files.pythonhosted.org/packages/eb/6b/cbcc455ff4a5128955928ec7718787821e522f654f456b158f0fcc344e21/azure-mgmt-apimanagement-0.2.0.zip
 Source0  : https://files.pythonhosted.org/packages/eb/6b/cbcc455ff4a5128955928ec7718787821e522f654f456b158f0fcc344e21/azure-mgmt-apimanagement-0.2.0.zip
 Summary  : Microsoft Azure API Management Client Library for Python
